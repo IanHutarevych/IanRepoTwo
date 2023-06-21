@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="020b9c8d-cde7-4a2b-9aa7-2edb4bb05e60" name="Changes" comment="qwe" />
+    <list default="true" id="020b9c8d-cde7-4a2b-9aa7-2edb4bb05e60" name="Changes" comment="qwe">
+      <change beforePath="$PROJECT_DIR$/src/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/delete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/showAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/showAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/update.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/update.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687371648536</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="qwe">
+      <created>1687371736056</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687371736056</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

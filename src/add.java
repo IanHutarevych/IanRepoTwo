@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class add {
 
+
     public void add(List<Contact> arr, Scanner s){
         System.out.println("Write your number");
         String number = s.nextLine();
