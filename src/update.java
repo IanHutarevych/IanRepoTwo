@@ -11,7 +11,6 @@ public class update {
         System.out.println("Choose what to update :");
         int choice = s.nextInt();
         System.out.println("Write your number");
-
         String newnumber = s.next();
         System.out.println("Write name");
         String newname = s.next();

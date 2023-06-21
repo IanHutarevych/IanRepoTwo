@@ -7,7 +7,6 @@ import java.util.List;
 
 public class exit {
     public void exit(List<Contact> contact) throws IOException{
-
         Gson gson = new Gson();
         FileWriter file = new FileWriter("src/Gson.json");
         gson.toJson(contact, file);

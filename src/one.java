@@ -17,7 +17,6 @@ public class one {
 
 
     static String[] commands = {"exit", "showAll", "add", "delete", "update"};
-
     static List<Contact> contactsList = new ArrayList<>();
 
     private static void fromJsonToArr() throws IOException {
